@@ -4,7 +4,7 @@
 
 Soy un analista programador, con experiencia en automatización de procesos. Me gustan los desafíos, el aprendizaje y los proyectos que requieren creatividad, pensamiento crítico y la resolución de problemas.
 
-🌱 Me oriendo a crecer dentro del desarrollo de aplicaciones y de pipelines de datos.
+🌱 Me oriento a crecer dentro del desarrollo de aplicaciones y de pipelines de datos.
 
 ---
 
