@@ -28,6 +28,7 @@ Soy un analista programador, con experiencia en automatización de procesos. Me 
     <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=ts" height="34" alt="typescript logo" /><br/>TypeScript</td>
     <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=react" height="34" alt="react logo" /><br/>React</td>
     <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=javascript" height="34" alt="javascript logo" /><br/>JavaScript</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=nextjs" height="34" alt="javascript logo" /><br/>NextJS</td>
   </tr>
 </table>
 
