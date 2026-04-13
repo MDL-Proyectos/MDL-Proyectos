@@ -10,7 +10,7 @@ Soy un analista programador, con experiencia en automatización de procesos. Me 
 
 ## 🛠️ Tech Stack  
 
-### Backend
+### Backend y Gestión de Datos
 
 <table>
   <tr>
@@ -18,6 +18,7 @@ Soy un analista programador, con experiencia en automatización de procesos. Me 
      <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=django" height="34" alt="django logo" /><br/>Django</td>
     <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs logo" /><br/>Node.js</td>
     <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo" /><br/>Express</td>
+    <td align="center" style="padding-top: 12px;"><img src="https://skillicons.dev/icons?i=java" height="34" alt="express logo" /><br/>Java</td>
   </tr>
 </table>
 
