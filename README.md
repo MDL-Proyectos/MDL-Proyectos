@@ -1,6 +1,5 @@
 ## Hola! Soy Matías Di Lella 👋 
 
----
 ###  Ingeniería de Datos y Automatización de Procesos 🚀
 
 Soy **Analista Programador** orientado al desarrollo de software, la creación de automatizaciones y el procesamiento de datos. Me motivan los desafíos técnicos que requieren pensamiento crítico, creatividad y soluciones eficientes.
