@@ -1,11 +1,19 @@
 ## Hola! Soy Matías Di Lella 👋 
 
 ---
+#  Ingeniería de Datos y Automatización de Procesos 🚀
 
-Soy un analista programador, con experiencia en automatización de procesos. Me gustan los desafíos, el aprendizaje y los proyectos que requieren creatividad, pensamiento crítico y la resolución de problemas.
+Soy **Analista Programador** orientado al desarrollo de software, la creación de automatizaciones y el procesamiento de datos. Me motivan los desafíos técnicos que requieren pensamiento crítico, creatividad y soluciones eficientes.
 
-🌱 Me oriento a crecer dentro del desarrollo de aplicaciones y de pipelines de datos.
+### 🎯 En lo que me destaco
+* **Automatización y Eficiencia:** Creación de scripts y herramientas útiles para optimizar flujos de trabajo y eliminar tareas repetitivas.
+* **Desarrollo de Software:** Construcción de aplicaciones con foco en la resolución de problemas lógicos.
+* **Tratamiento de Datos:** Modelado, limpieza y diseño de pipelines para transformar datos en información de valor.
 
+### 🌱 Mi Enfoque Actual
+* Profundizando en el diseño de pipelines de datos y arquitectura de software.
+* Aprendizaje continuo de nuevas tecnologías para resolver problemas complejos.
+* Construcción de herramientas que generen un impacto real y práctico.
 ---
 
 ## 🛠️ Tech Stack  
